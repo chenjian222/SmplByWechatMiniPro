@@ -1,0 +1,7 @@
+<view id="we">
+
+  <canvas type="webgl" id="myCanvas"></canvas>
+</view>
+
+
+
