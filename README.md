@@ -1,0 +1,2 @@
+# SmplByWechatMiniPro
+使用微信小程序来加载Smpl模型
